@@ -20,7 +20,7 @@ const getui = app.requireModule("eeui/getui");
 
 ## 参数配置
 
-`eeui.config.js`配置如下：
+[eeui.config.js](https://eeui.app/guide/config.html) 配置如下：
 
 ```js
 module.exports = {
